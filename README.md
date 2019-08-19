@@ -1,12 +1,12 @@
 # DDOS-Attack-Prevention
-The defense mechanism is multi-level and is explained in two phases- the client puzzle phase and cooperating cache servers phase.The proposed scheme caters to the above issues in designing of the DDoS defense schemes. It fights against DDoS attack by mitigating the attack traffic and allowingselective access to the services offered by the server. It is executed in two different phases according to the value allocated to the volume metric variable by the traffic checker module for the incoming packets.For
+The defense mechanism is multi-level and is explained in two phases- the client puzzle phase and cooperating cache servers phase.The proposed scheme caters to the above issues in designing of the DDoS defense schemes. It fights against DDoS attack by mitigating the attack traffic and allowing selective access to the services offered by the server. It is executed in two different phases according to the value allocated to the volume metric variable by the traffic checker module for the incoming packets.For
 evaluation of the performance of proposed approach, we did its simulation in network
 simulator NS2. It is done to find out the expected performance of the defense scheme under
 two conditions. Firstly, when the defense mechanism is in place and secondly, when there
 is no defense mechanism.
 
-We build a prototype of continuous double-auction mechanism using Actor Architecture
-(AA) and extensive analysis of the double auction mechanism of cache trading is done
+A prototype of continuous double-auction mechanism using Actor Architecture
+(AA) is built and extensive analysis of the double auction mechanism of cache trading is done
 with key objectives to provide crucial insights on mitigation of the traffic flood. The design
 of the simulation analysis comprises of Bitbrains dataset of 1250 server machines
 whose configuration is used for optimal allocation. To select the optimal caches, the53
