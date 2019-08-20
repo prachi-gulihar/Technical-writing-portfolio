@@ -9,7 +9,7 @@ A prototype of continuous double-auction mechanism using Actor Architecture
 (AA) is built and extensive analysis of the double auction mechanism of cache trading is done
 with key objectives to provide crucial insights on mitigation of the traffic flood. The design
 of the simulation analysis comprises of Bitbrains dataset of 1250 server machines
-whose configuration is used for optimal allocation. To select the optimal caches, the53
+whose configuration is used for optimal allocation. To select the optimal caches, the
 MATLAB R2013a version is used in the laptop of Intel Core i3 processor, RAM 4GB,
 operating system-64 bit. The schedule of workflows is preprocessed and is fed to the whale
 algorithm and the results are stored in a CSV file which is inputted to the AA using Engine
