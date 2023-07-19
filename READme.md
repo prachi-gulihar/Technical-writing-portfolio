@@ -8,6 +8,8 @@ I invite you to explore and immerse yourself in the world of technical communica
 
 Thank you for visiting, and feel free to reach out with any questions or collaboration opportunities!
 
+NOTE: PLEASE CLICK ON FILENAMES TO OPEN THEIR PREVIEW.
+
 
 
 
